@@ -1,4 +1,8 @@
-name = "Sara Bethany"
-best_pizza = "margharaita"
+def in_my_feelings
+  puts "grove"
+  puts "make a heart with your hands and move it away and towards your body"
+  puts "does a dougie style move while pretending to drive a car"
+  puts "move your hands to the sides of your body like you're rowing"
+end 
 
-puts "Hi! My name is #{name} and my favorite pizza is #{best_pizza}."
+in_my_feelings
